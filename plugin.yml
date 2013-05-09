@@ -1,0 +1,4 @@
+name: Bukkit Gamemode
+main: net.teamwraith.gamemode.Gamemode
+version: 0.0.1
+author: EternalFacepalm
